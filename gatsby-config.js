@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `Mutiakun Pages`,
     author: {
-      name: `Mutiakun`,
-      summary: `no bio yet.`,
+      name: `Mutiakun,`,
+      summary: `the person behind this pages.`,
     },
-    description: `No bio yet`,
+    description: `the person behind this pages.`,
     siteUrl: `https://mutiakun.gatsbyjs.io/`,
     social: {
-      twitter: `mutiakun`,
+      twitter: `#`,
     },
   },
   plugins: [
